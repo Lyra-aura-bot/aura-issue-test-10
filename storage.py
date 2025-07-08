@@ -1,4 +1,5 @@
 import json
+from todo import TodoItem
 
 STORAGE_FILE = 'todos.json'
 
